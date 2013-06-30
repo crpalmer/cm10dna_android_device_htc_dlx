@@ -204,7 +204,9 @@
             16 - App switch
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
+<!-- Not supported by AOKP? 
     <integer name="config_deviceHardwareKeys">19</integer>
+-->
 
     <string-array name="config_usbHostBlacklist">
         <!-- /dev/bus/usb/001 is used for the modem -->

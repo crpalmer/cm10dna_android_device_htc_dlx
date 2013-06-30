@@ -18,5 +18,7 @@
 -->
 <resources>
     <!-- Default for Settings.System.UI_FORCE_OVERFLOW_BUTTON. -->
+<!-- Not supported by AOKP?
     <integer name="def_force_overflow_button">1</integer>
+-->
 </resources>

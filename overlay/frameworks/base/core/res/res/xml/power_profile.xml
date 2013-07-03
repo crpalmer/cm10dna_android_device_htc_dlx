@@ -31,6 +31,8 @@
         <value>1350000</value>
         <value>1458000</value>
         <value>1512000</value>
+	<value>1674000</value>
+	<value>1728000</value>
     </array>
     <item name="cpu.idle">0.72</item>
     <array name="cpu.active">
@@ -46,6 +48,8 @@
         <value>228.5</value>
         <value>236.0</value>
         <value>239.7</value>
+        <value>240.5</value>	<!-- CRP guessing -->
+        <value>241.0</value>	<!-- CRP guessing -->
     </array>
     <item name="battery.capacity">2100</item>
 </device>
